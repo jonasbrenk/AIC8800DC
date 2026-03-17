@@ -2,8 +2,6 @@
 
 Tested on Linux kernel 6.17 with Ubuntu 24.04.1 LTS.
 
-src: https://www.lulian.cn/download/122.html (UGREEN CM760-35262, `a69c:88de`)
-
 This specific fork has the purpose to work with 6.17 and might therefore break if using with a previous kernel version.
 
 ## Disclaimer
